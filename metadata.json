@@ -1,0 +1,7 @@
+{
+  "name": "Cinematic Timelapse AI",
+  "description": "A high-end architectural tool that generates professional-grade timelapse videos transitioning from a 'Before' state to an 'After' state using Gemini Veo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
